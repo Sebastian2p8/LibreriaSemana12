@@ -13,5 +13,5 @@ namespace Libreria
             Console.WriteLine("Apellidos: Arenas Medina");
             Console.WriteLine("Nombre: Sebastián");
         }
-    }   
+    }  
 }
